@@ -45,9 +45,9 @@ var __importStar =
   };
 Object.defineProperty(exports, '__esModule', { value: true });
 exports.Psbt = void 0;
-const bip174_1 = require('bip174');
+const bip174_1 = require('@joeaska/bip174');
 const varuint = __importStar(require('varuint-bitcoin'));
-const bip174_2 = require('bip174');
+const bip174_2 = require('@joeaska/bip174');
 const address_js_1 = require('./address.cjs');
 const bufferutils_js_1 = require('./bufferutils.cjs');
 const networks_js_1 = require('./networks.cjs');
